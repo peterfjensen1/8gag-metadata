@@ -1,0 +1,12 @@
+{
+  "name": "8gag Token",
+  "symbol": "8GAG",
+  "uri": "https://example.com/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "978sJhdmfKfDTa3Pbcpek2joYc5xsuwFoj9v8ELNH3F4",
+      "share": 100
+    }
+  ]
+}
